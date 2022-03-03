@@ -1,0 +1,49 @@
+em {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 116, 192);
+}
+
+strong {
+    font-weight: bold;
+    border-color: aquamarine;
+}
+
+p {
+    border: 1px solid rgb(58, 255, 163);
+    padding-right: 10cm;
+}
+.highlight {
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+}
+
+body
+{
+    font-size:100%;
+    background-color:red;
+
+}
+.header
+{
+    text-align:center;
+    font-size:4em;
+    font-family:sans-serif;
+    background-color:blue;
+}
+
+/* The animation code */
+@keyframes example {
+    0%   {background-color: rgb(248, 140, 140);}
+    25%  {background-color: rgb(255, 137, 82);}
+    50%  {background-color: rgb(117, 117, 250);}
+    100% {background-color: rgb(146, 245, 146);}
+  }
+  
+  /* The element to apply the animation to */
+  div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  }

@@ -1,0 +1,35 @@
+em {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 116, 192);
+}
+
+strong {
+    font-weight: bold;
+    border-color: aquamarine;
+}
+
+p {
+    font-family: 'Cormorant Garamond', serif;
+    color: rgb(58, 5, 23);
+    background-color: bisque;
+}
+
+
+.tomato {
+ 
+  border-bottom: 1px solid black;
+}
+
+body
+{
+    font-size:100%;
+    background-color:rgb(141, 141, 141);
+
+
+}
+
+
+h1{
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 50px;
+}

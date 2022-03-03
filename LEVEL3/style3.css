@@ -1,0 +1,51 @@
+em {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 116, 192);
+}
+
+strong {
+    font-weight: regular;
+    border-color: rgb(182, 255, 231);
+}
+
+p {
+    border: 1px solid rgb(0, 0, 0);
+    padding-right: 10cm;
+}
+.highlight {
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+}
+
+body
+{
+    font-size:100%;
+    background-color:rgb(255, 255, 255);
+
+}
+.header
+{
+    text-align:center;
+    font-size:4em;
+    font-family:sans-serif;
+    background-color:blue;
+}
+h1 {
+    color: black;
+    background-color: rgb(197,93,161);
+  }
+
+h2 {
+    color: rgb(197,93,161);
+    background-color: black;
+}
+
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;;
+  border: 2px solid rgb(255, 138, 236);
+  border-radius: 4px;
+}
+  

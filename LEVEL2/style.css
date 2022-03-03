@@ -1,0 +1,32 @@
+em {
+    background-color: rgb(255, 255, 255);
+    color: rgb(250, 151, 151);
+}
+
+strong {
+    font-weight: bold;
+    border-color: aquamarine;
+}
+
+p {
+    border: 1px solid rgb(255, 255, 255);
+    padding-right: 10cm;
+}
+.highlight {
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+}
+
+body
+{
+    font-size:100%;
+    background-color:rgb(255, 255, 255);
+
+}
+.header
+{
+    text-align:center;
+    font-size:4em;
+    font-family:sans-serif;
+    background-color:blue;
+}

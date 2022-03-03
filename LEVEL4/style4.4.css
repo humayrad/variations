@@ -1,0 +1,47 @@
+em {
+    color: palevioletred;
+}
+
+strong {
+    font-weight: bold;
+    border-color: aquamarine;
+}
+
+p {
+    font-family:'Manrope', sans-serif;
+    color: rgb(252, 252, 252);
+    border-color: aquamarine;
+    border-style: dotted dashed solid double;
+    border-radius: 5px;
+   border-right-width: 50%;
+}
+
+.space {
+  font-size: 80px;
+}
+
+
+
+body
+{
+    font-size:100%;
+    background-color:rgb(105, 105, 105);
+    text-align: right;
+}
+
+
+h1{
+    color: rgb(119, 119, 119);
+    font-family:'Manrope', sans-serif;
+    font-weight: 200;
+    font-size: 70;
+}
+
+
+h2{
+    color: rgb(65, 65, 65);
+    font-family:'Manrope', sans-serif;
+    font-weight: 200;
+    font-size: 70;
+}
+
